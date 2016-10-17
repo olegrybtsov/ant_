@@ -10,7 +10,7 @@
     </target>
 
     <target name="run">
-        <java "build/classes/HelloWorld.jar"/>
+        <java "build/classes/Hello.class"/>
     </target>
 
 </project>
